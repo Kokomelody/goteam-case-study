@@ -1,10 +1,10 @@
 # GoTeam — Case Study
 
+### 🔗 [Try the live app → goteam.buildingmelody.com](https://goteam.buildingmelody.com)
+
 GoTeam is a group trip and event coordination tool that removes the chaos of planning anything with other people — finding dates that work for everyone, agreeing on a destination, and collecting accommodation preferences, all without accounts or app downloads.
 
 This repository shares the product and engineering thinking behind the live app: the vision and roadmap, a full PRD for an in-progress feature, and an architecture overview. The application's source code lives in a private repository (it includes third-party API keys and a production database), so this case study exists to share the thinking publicly.
-
-**Live app:** [goteam.buildingmelody.com](https://goteam.buildingmelody.com)
 
 ## Contents
 
